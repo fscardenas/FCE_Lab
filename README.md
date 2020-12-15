@@ -32,10 +32,10 @@
 1.	Tema: Leyes De Kirchhoff
 2.	Objetivos
 
-1.1 Objetivo General
+  1.1 Objetivo General
 
 ●	Analizar y comprender mediante la simulación la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
-1.2 Objetivos Específicos
+   1.2 Objetivos Específicos
 
 ●	Comparar datos obtenidos en la simulación y datos obtenidos mediante cálculos medidos y calculados.
 
@@ -63,7 +63,8 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
 
 	
   5.1 	Explicación
-	Para la elaboración del circuito a implementar  nos ayudamos de la plataforma 	de CADCLAB, ya que es un simulador donde nos facilita la toma de datos de cada 	elemento que complementa el circuito eléctrico, en sí es una plataforma fácil de usar ya 	que una vez cerrado el circuito nos refleja los datos de corriente que pasa por cada rama 	al igual la utilización de los diferentes instrumentos el único inconveniente es que al 	modificar el valor de cada resistencia no es un valor exacto sino un valor aproximado 	el cual se van a simular por ende va a existir un margen de error. 
+  
+	Para la elaboración del circuito a implementar  nos ayudamos de la plataforma 	de CADCLAB, ya que es un simulador donde nos facilita la toma de datos de cada 	elemento que complementa el circuito eléctrico, en sí es una plataforma fácil de usar ya que una vez cerrado el circuito nos refleja los datos de corriente que pasa por cada rama 	al igual la utilización de los diferentes instrumentos el único inconveniente es que al modificar el valor de cada resistencia no es un valor exacto sino un valor aproximado 	el cual se van a simular por ende va a existir un margen de error. 
 
 6.	Procedimiento 
 
@@ -71,10 +72,9 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
 
        2.	Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
        
-
 ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/iniciosesion.png)
 
-  Figura N.º 2: Inicio de sesión DCACLAB
+         Figura N.º 2: Inicio de sesión DCACLAB
 
     3.	Una vez ya iniciado sesión, elegir cualquier elemento de la barra de herramientas, es decir con el cual vayamos a trabajar y unir los elementos como muestra en la figura.
   
