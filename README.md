@@ -53,6 +53,7 @@ SANGOLQUI - ECUADOR
 
 4.	Diagramas 
  
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/11.png)
  
 Figura N.º 1: Diagrama de implementación del circuito eléctrico 
 
@@ -60,22 +61,7 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
 
 5.	Lista De Componentes 
 
-Cantidad	Material o Equipo	Descripción
-
-1	Fuente de Voltaje de C.D.	     Fuentes de corriente directa (generador de corriente). Las llamadas fuentes de alimentación son un dispositivo que transforma la tensión alterna de la red de suministro, en varias tensiones, que son continuas, y alimentan a los distintos circuitos del aparato electrónico al que se conecta.
-
-2	Multímetros Digitales	Es una herramienta de demostración manipulada para medir dos o más valores eléctricos, principalmente tensión (voltios), corriente (amperios) y resistencia (ohmios).
-
-1	Resistor de 1 kΩ	       Son unos elementos eléctricos cuya función es impedir el paso de la corriente eléctrica a través de ellas.
-        La resistencia óhmica de una resistencia se mide en ohmios, así como dos de sus múltiplos: el Kilo-Ohmio (1KΩ) y el Mega-Ohmio (1MΩ=106Ω). El valor resistivo puede ser fijo o variable.
-
-2	Resistores de 2.2 kΩ	
-
-1	Resistor de 1.8 kΩ	
-
-1	Resistor de 3.9 kΩ	
-
-1	Protoboard	       Es una placa de pruebas para electrónica que contiene numerosos orificios en los que es posible insertar cables y otros elementos electrónicos para montar circuitos provisionales o de prueba.
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/descripcion.png)
 
 	
   5.1 	Explicación
@@ -88,25 +74,31 @@ Cantidad	Material o Equipo	Descripción
 2.	Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
   
 
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/iniciosesion.png)
+
 Figura N.º 2: Inicio de sesión DCACLAB
 
 3.	Una vez ya iniciado sesión, elegir cualquier elemento de la barra de herramientas, es decir con el cual vayamos a trabajar y unir los elementos como muestra en la figura.
   
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/1.png)
 
 Figura N.º 3: Implementación de componentes para el circuito a implementar
 
 4.	Luego dar clic en cada elemento para cambiar su valor, el cual dará un valor aproximado al valor real de cada elemento, repetimos este proceso para cada elemento del circuito a implementar.
   
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/2.png)
 
 Figura N.º 4: Configuración de cada elemento del circuito
 
 5.	Ya terminado de cambiar todos los elementos al valor que se desee medir, cerramos el circuito.
   
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/3.png)
 
 Figura N.ª 5: Circuito Implementado 
 
 6.	Con la ayuda de un multímetro, empezamos a unir los terminales en cada elemento, para la recopilación de datos.
    
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/4.png)
 
 Figura N.º 6: Toma de datos mediante el Multímetro 
 
@@ -118,15 +110,15 @@ Figura N.º 6: Toma de datos mediante el Multímetro
 
 8.	Tabulación de Datos
 
-
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/t1.png)
 
 Tabla 1: Resultados obtenidos de voltaje y corriente en cada elemento del circuito.
 
-
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/t2.png)
 
 Tabla 2: Verificación de la LVK
 
-
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/t3.png)
 
 Tabla 3: Verificación la LCK
 
@@ -136,12 +128,15 @@ Obtención de Datos
  
 - Calculo de voltaje mediante Ley de Ohm
  
+ ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/p1.png)
  
 - Calculo de corriente de cada elemento 
  
+ ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/p2.png)
  
 - Calculo de margen de Error de Voltaje 
  
+ ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/p3.png)
  
 - Calculo de margen de Error de Corriente 
  
@@ -180,17 +175,22 @@ Obtención de Datos
 
 -	Simulador DCACLab
  
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a1.png)
 
 Figura. 1 Circuito a implementar DCACLAB
  
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a2.png)
 
 Figura. 2 Simulación de corriente R1
  
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a3.png)
 
 Figura. 3 Corriente Fuente
  
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a4.png)
 
 Figura. 4 Circuito a implementar Tinkercad
 
- 
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a5.png)
+
 Figura. 5 Simulación de voltaje R1
