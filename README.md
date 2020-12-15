@@ -1,31 +1,31 @@
 # Laboratorio-1-FCE_Lab_4872
 
-                                           UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
+                                                   UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
-DEPARTAMENTO DE ELÉCTRICA Y ELECTRÓNICA
+                                                   DEPARTAMENTO DE ELÉCTRICA Y ELECTRÓNICA
 
-CARRERA DE INGENIERÍA ELECTRÓNICA Y AUTOMATIZACIÓN
+                                             CARRERA DE INGENIERÍA ELECTRÓNICA Y AUTOMATIZACIÓN
 
-PERIODO         	                :       Noviembre 2020 – Abril 2021
+                                    PERIODO         	                :       Noviembre 2020 – Abril 2021
 
-ASIGNATURA     	                :        Fundamentos de Circuitos Eléctricos 
+                                    ASIGNATURA     	                :        Fundamentos de Circuitos Eléctricos 
 
-TEMA	                            : 	Informe de laboratorios
-
-NOMBRES       	          	:           Freddy Stalin Cárdenas Carrera 
-					Juan Sebastián Vásquez Hurtado 
-
-NIVEL-PARALELO           :            Segundo
-
-DOCENTE       	 	:           Ing. Darwin Alulema MSc.
-
-FECHA DE ENTREGA       :       	15/12/2020
-
-NRC 				:	4872
+                                    TEMA	                        : 	Informe de laboratorios
  
-SANGOLQUI - ECUADOR
+                                    NOMBRES       	          	:           Freddy Stalin Cárdenas Carrera 
+					                                            Juan Sebastián Vásquez Hurtado 
 
-2020
+                                    NIVEL-PARALELO                      :            Segundo
+
+                                    DOCENTE       	 	        :           Ing. Darwin Alulema MSc.
+
+                                    FECHA DE ENTREGA                    :       	15/12/2020
+
+                                    NRC 				:	4872
+ 
+                                                                      SANGOLQUI - ECUADOR
+
+                                                                              2020
 
 
 
