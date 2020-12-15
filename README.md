@@ -2,6 +2,7 @@
 Fundamentos de Circuitos Eléctricos Laboratorio "Informes"
 
 Integrantes: Cárdenas Freddy  &  Vásquez Juan 
+
 UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
 DEPARTAMENTO DE ELÉCTRICA Y ELECTRÓNICA
@@ -69,34 +70,34 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
 
 6.	Procedimiento 
 
-1.	Ingresar en nuestro navegador el siguiente Simulador: https://dcaclab.com/es/lab 
+     1.	Ingresar en nuestro navegador el siguiente Simulador: https://dcaclab.com/es/lab 
 
-2.	Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
+    2.	Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
   
 
 ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/iniciosesion.png)
 
 Figura N.º 2: Inicio de sesión DCACLAB
 
-3.	Una vez ya iniciado sesión, elegir cualquier elemento de la barra de herramientas, es decir con el cual vayamos a trabajar y unir los elementos como muestra en la figura.
+    3.	Una vez ya iniciado sesión, elegir cualquier elemento de la barra de herramientas, es decir con el cual vayamos a trabajar y unir los elementos como muestra en la figura.
   
 ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/1.png)
 
 Figura N.º 3: Implementación de componentes para el circuito a implementar
 
-4.	Luego dar clic en cada elemento para cambiar su valor, el cual dará un valor aproximado al valor real de cada elemento, repetimos este proceso para cada elemento del circuito a implementar.
+    4.	Luego dar clic en cada elemento para cambiar su valor, el cual dará un valor aproximado al valor real de cada elemento, repetimos este proceso para cada elemento del circuito a implementar.
   
 ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/2.png)
 
 Figura N.º 4: Configuración de cada elemento del circuito
 
-5.	Ya terminado de cambiar todos los elementos al valor que se desee medir, cerramos el circuito.
+     5.	Ya terminado de cambiar todos los elementos al valor que se desee medir, cerramos el circuito.
   
 ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/3.png)
 
 Figura N.ª 5: Circuito Implementado 
 
-6.	Con la ayuda de un multímetro, empezamos a unir los terminales en cada elemento, para la recopilación de datos.
+     6.	Con la ayuda de un multímetro, empezamos a unir los terminales en cada elemento, para la recopilación de datos.
    
 ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/4.png)
 
