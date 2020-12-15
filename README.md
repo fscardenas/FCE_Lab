@@ -44,11 +44,11 @@ SANGOLQUI - ECUADOR
 ●	Demostrar la aplicación de las leyes Kirchhoff en el circuito simulaciones y recopilación de datos.
 3.	Marco Teórico 
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/master/x/lk.png)
- 
- 
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/lk.png)
 
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/ley1k.png)
 
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/ley2k.png)
 
 
 4.	Diagramas 
