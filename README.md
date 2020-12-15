@@ -70,14 +70,14 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
 
 6.	Procedimiento 
 
-       1.	Ingresar en nuestro navegador el siguiente Simulador: https://dcaclab.com/es/lab 
+       1. Ingresar en nuestro navegador el siguiente Simulador: https://dcaclab.com/es/lab 
 
-       2.	Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
+       2.Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
   
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/iniciosesion.png)
+![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/iniciosesion.png).md
 
-Figura N.º 2: Inicio de sesión DCACLAB
+  Figura N.º 2: Inicio de sesión DCACLAB
 
     3.	Una vez ya iniciado sesión, elegir cualquier elemento de la barra de herramientas, es decir con el cual vayamos a trabajar y unir los elementos como muestra en la figura.
   
